@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- collapse stats like this
+<details></details>
+-->
 
-<summary>Stats</summary>
+<!-- <summary>Stats</summary> -->
 <a href="https://github.com/eawlot3000">
   <table>
     <tr>
