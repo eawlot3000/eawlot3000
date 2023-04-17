@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>Stats</summary>
 <a href="https://github.com/eawlot3000">
   <table>
     <tr>
