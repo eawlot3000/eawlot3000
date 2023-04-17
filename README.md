@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- collapse stats like this
 <details></details>
 -->
-
 <!-- <summary>Stats</summary> -->
 <a href="https://github.com/eawlot3000">
   <table>
@@ -31,3 +31,10 @@ Here are some ideas to get you started:
   </table>
 </a>
 <!-- https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/eawlot3000) -->
+
+
+<!-- ====== another e.g. ======
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceld&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aceld&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aceld&theme=github)
+-->
