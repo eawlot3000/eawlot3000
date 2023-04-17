@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 <!-- <summary>Stats</summary> -->
 <a href="https://github.com/eawlot3000">
   <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=eawlot3000&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
-      </td>
-      <td>
+    <!-- <tr> <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eawlot3000&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" /> </td> <td> -->
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eawlot3000&layout=compact&hide_border=true&title_color=ffa000" />
       </td>
     </tr>
