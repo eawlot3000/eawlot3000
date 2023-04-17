@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-
+<details>
+<summary>Stats</summary>
 <a href="https://github.com/eawlot3000">
   <table>
     <tr>
@@ -29,6 +30,5 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </a>
-
-[![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/eawlot3000)
+<!-- https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/eawlot3000) -->
 </details>
