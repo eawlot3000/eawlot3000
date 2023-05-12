@@ -1,4 +1,6 @@
 # How To Be Successful
+[中文版](success-cn.md)
+
 I’ve observed thousands of founders and thought a lot about what it takes to make a huge amount of money or to create something important. Usually, people start off wanting the former and end up wanting the latter.
 
 Here are 13 thoughts about how to achieve such outlier success. Everything here is easier to do once you’ve already reached a baseline degree of success (through privilege or effort) and want to put in the work to turn that into outlier success. [1] But much of it applies to anyone.
